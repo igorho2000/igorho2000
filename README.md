@@ -36,12 +36,14 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 
 **Frontend**:
 
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=Vue.js&logoColor=white&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=React&logoColor=black&label=)
 ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=222222&logo=React&logoColor=61DAFB&label=)
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=white&label=)
 ![Mapbox](https://img.shields.io/static/v1?style=for-the-badge&message=Mapbox&color=000000&logo=Mapbox&logoColor=FFFFFF&label=)
 
