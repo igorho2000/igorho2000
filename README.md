@@ -19,7 +19,7 @@
 
 ### Notable Projects
 
-- [Entrusy](https://entrusy.com) - To be released app to create a more empathetic world.
+- [Entrusy](https://entrusy.com) - An awesome app - Connect with Empathy.
 - [Aralia - Geospatial Analysis](https://araliadata.io) - Federated data exchange platform by Big Object Inc.
 - [Taipei City Dashboard](https://citydashboard.taipei) - The highly acclaimed data visualization platform for Taipei City's urban data and Taipei City's first open-source software project. [Online Course](https://youtu.be/6Qrf_6e9rGY?si=-7ryLGJS0mrDqJQa)
 - [city-dashboard-component NPM Package](https://www.npmjs.com/package/city-dashboard-component) - The NPM package for Taipei City Dashboard's components.
