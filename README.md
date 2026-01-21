@@ -7,11 +7,11 @@
   <a href="https://projectonepremium.com/"><img src="https://img.shields.io/badge/-Portfolio-rgb(8, 103, 124)?style=flat-square&link=https://projectonepremium.com/"></a>
 	<a href="https://www.projectonepremium.com/sidebar/Igor_Resume_Eng.pdf"><img src="https://img.shields.io/badge/-Resume-rgb(91, 212, 255)?style=flat-square&logo=adobeacrobatreader&logoColor=black&link=https://www.projectonepremium.com/sidebar/Igor_Resume_Eng.pdf"></a>
 
-<p style="text-align: center">Hi, I'm Igor, a full stack engineer and CEO of Entrusy. I'm a passionate learner and a self-taught developer.</p>
+<p style="text-align: center">Hi, I'm Igor, a full stack engineer and founder of Entrusy. I'm a passionate learner and a self-taught developer.</p>
 
 <p style="text-align: center">I enjoy creating things that are distinctively “me” and work with teams that are inclusive, supportive, and collaborative.</p>
 
-<p style="text-align: center">I've coined the term "Not just a full stack engineer" because I'm so much more. I'm also a UI/UX designer, a project manager, a workshop speaker, an online course instructor, a hackathon judge, and a mentor.</p>
+<p style="text-align: center">I often describe myself as “not just a full-stack engineer” — I also work across UI/UX design, project management, and product leadership, and I’m comfortable owning everything from execution to presentation.</p>
 
 <p style="text-align: center">I'm always open to new opportunities and challenges. If you have a project that you want to get started, think you need my help with something, or just fancy saying hey, then get in touch.</p>
 
@@ -19,15 +19,15 @@
 
 ### Notable Projects
 
-- [Entrusy](https://entrusy.com) - An awesome app - Connect with Empathy.
+- [Entrusy](https://entrusy.com) - Text to Trend Generator (My latest [probably futile] attempt)
+- [Connect with Empathy App](https://app.entrusy.com) - The OG Entrusy. An app to share voice messages anonymously. It's off the AppStore but the website is still there!
 - [Aralia - Geospatial Analysis](https://araliadata.io) - Federated data exchange platform by Big Object Inc.
 - [Taipei City Dashboard](https://citydashboard.taipei) - The highly acclaimed data visualization platform for Taipei City's urban data and Taipei City's first open-source software project. [Online Course](https://youtu.be/6Qrf_6e9rGY?si=-7ryLGJS0mrDqJQa)
 - [city-dashboard-component NPM Package](https://www.npmjs.com/package/city-dashboard-component) - The NPM package for Taipei City Dashboard's components.
 - [Taipei City Dashboard Documentation](https://tuic.gov.taipei/documentation) - The documentation site for Taipei City Dashboard.
 - [YouBike Optimization Analysis Project Site](https://tuic.gov.taipei/youbike) - The project site for the YouBike Optimization Analysis Project.
-- [Project One Premium](https://projectonepremium.com) - My personal portfolio site.
 - [ProntoMock](https://prontomock-abed0.web.app) - A simple and easy-to-use mockup tool. [Demo](https://www.youtube.com/watch?v=Xg1a35EnRI4)
-- [TEDxNationalTaiwanUniversity Site](https://tedxntutw.web.app) - The site for TEDxNationalTaiwanUniversity.
+- [Project One Premium](https://projectonepremium.com) - My personal portfolio site. And the first website that started it all.
 
 ### My Tech Stack
 
