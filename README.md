@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/igorho/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorho/"></a>
 	<a href="mailto:igorho2000@gmail.com"><img src="https://img.shields.io/badge/-Email-rgb(255, 0, 0)?style=flat-square&logo=gmail&logoColor=white&link=mailto:igorho2000@gmail.com"></a>
   <a href="https://projectonepremium.com/"><img src="https://img.shields.io/badge/-Portfolio-rgb(8, 103, 124)?style=flat-square&link=https://projectonepremium.com/"></a>
-	<a href="https://www.projectonepremium.com/sidebar/Igor_Resume_Eng.pdf"><img src="https://img.shields.io/badge/-Resume-rgb(91, 212, 255)?style=flat-square&logo=adobeacrobatreader&logoColor=black&link=https://www.projectonepremium.com/sidebar/Igor_Resume_Eng.pdf"></a>
+	<a href="https://pdfs.cakeresume.com/user_pdfs/7b92a98c-f23c-4751-aacf-ce1791efe6f3.pdf"><img src="https://img.shields.io/badge/-Resume-rgb(91, 212, 255)?style=flat-square&logo=adobeacrobatreader&logoColor=black&link=https://www.projectonepremium.com/sidebar/Igor_Resume_Eng.pdf"></a>
 
 <p style="text-align: center">Hi, I'm Igor, a full stack engineer and founder of Entrusy. I'm a passionate learner and a self-taught developer.</p>
 
